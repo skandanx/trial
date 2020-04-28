@@ -4,7 +4,7 @@ html{
    margin: 0 auto;
    background-image: url("assets/blurred.jpg");
        background-size: cover;
-height: 100%;
+
 
    background-repeat: no-repeat;
    color: #fff;
@@ -30,7 +30,7 @@ header{
 
     body{
         display: block;
-height: 100%;
+
         
         
     }
