@@ -1,0 +1,89 @@
+html{
+    text-align: justify;
+   font-family: cursive;
+   margin: 0 auto;
+   background-image: url("assets/blurred.jpg");
+   background-repeat: no-repeat;
+   color: #fff;
+   
+}
+
+h1{
+    color: #fff;
+    font-size: 400%%;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    
+}
+header{
+    margin-left: 344px;
+    display: block;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    position: fixed;
+    min-height: 150px;
+}
+
+
+    body{
+        display: block;
+        
+        
+    }
+
+    
+
+main{
+  
+        display: inline-block;
+        margin-bottom: 20px;
+        margin-left: 33%;
+        margin-right: auto;
+        margin-top: 200px;
+        min-height: 0px;
+        min-width: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 0px;
+        position: relative;
+        
+        
+}
+
+h2{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    
+}
+footer{
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+   
+}
+a{
+    color: blue;
+}
+#sidebar{
+    display: block;
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 0px;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    min-width: 350px;
+    width: 350px;
+    background-color: rgba(192, 192, 192, 0.178);
+    color: #fff;
+}
